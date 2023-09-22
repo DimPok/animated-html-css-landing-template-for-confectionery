@@ -1,0 +1,1 @@
+This is an animated landing page for a pastry shop specializing in the preparation of chocolate desserts (cakes, pies, souffles, etc.). It was made in HTML, CSS and JavaScript, no frills, but quite stylish. Ready for SEO and mobile devices. If someone wants to use this template for their purposes, they can replace the pictures, links and titles in it with their own
